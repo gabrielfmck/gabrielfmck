@@ -12,6 +12,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfmck&show_icons=true&theme=tokyonight)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfmck&layout=compact&theme=tokyonight)](https://github.com/gabrielfmck/github-readme-stats)
+![snake gif](https://github.com/gabrielfmck/gabrielfmck/blob/output/github-contribution-grid-snake.svg)
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
