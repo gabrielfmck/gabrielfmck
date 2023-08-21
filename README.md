@@ -4,7 +4,7 @@
 </h1>
   
 <p align="center">
-  <strong>Tenho 20 anos, e estou pronto para aprender coisas novas. Atualmente, estou cursando <i>Engenharia de Software</i> na <a href="https://www.unicesumar.edu.br/">UniCesumar</a> e <i>Sistemas de Informação</i> na <a href="https://ufu.br/">Universidade Federal de Uberlândia (UFU)</a>, tendo o objetivo de me tornar um profissional de TI qualificado. Estou em busca de colaborar e ter oportunidades em projetos relacionados a Desenvolvimento Web Front-end.</strong>
+  <strong>Tenho 20 anos, e estou pronto para aprender coisas novas. Atualmente, estou cursando <i>Sistemas de Informação</i> na <a href="https://ufu.br/">Universidade Federal de Uberlândia (UFU)</a>, tendo o objetivo de me tornar um profissional de TI qualificado. Estou em busca de colaborar e ter oportunidades em projetos relacionados a Desenvolvimento Web Front-end.</strong>
 </p>
 
 <div align="center" style="display: inline_block"> 
