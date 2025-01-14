@@ -169,14 +169,14 @@ Sou Gabriel Fernandes, um engenheiro de software apaixonado por cloud computing 
 ## 📈 Gráfico de Atividades
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielfmck/gabrielfmck/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielfmck/gabrielfmck/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielfmck/gabrielfmck/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielfmck/gabrielfmck/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielfmck/gabrielfmck/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielfmck/gabrielfmck/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ## 🎵 Tocando no Spotify
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+[![Spotify](https://novatoremg.vercel.app/api/spotify)](https://open.spotify.com/user/kabdrso2jlt9jaam79afo4odp)
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -190,9 +190,9 @@ Sou Gabriel Fernandes, um engenheiro de software apaixonado por cloud computing 
 ## 🎯 Atividades Recentes
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/your-github-username/repo/pull/1)
-2. 💪 Opened PR [#2](https://github.com/your-github-username/repo/pull/2)
-3. 🗣 Commented on [#3](https://github.com/your-github-username/repo/issues/3)
+1. 🎉 Merged PR [#1](https://github.com/gabrielfmck/repo/pull/1)
+2. 💪 Opened PR [#2](https://github.com/gabrielfmck/repo/pull/2)
+3. 🗣 Commented on [#3](https://github.com/gabrielfmck/repo/issues/3)
 <!--END_SECTION:activity-->
 
 ## 📝 Últimas Publicações
@@ -223,4 +223,4 @@ Dica: Você precisa configurar algumas actions no seu repositório para que func
 4. Para o Spotify status: Configurar app do Novatorem
 -->
 
-![](https://hit.yhype.me/github/profile?user_id=your-github-username)
+![](https://hit.yhype.me/github/profile?user_id=gabrielfmck)
