@@ -176,7 +176,13 @@ Sou Gabriel Fernandes, um engenheiro de software apaixonado por cloud computing 
 
 ## 🎵 Tocando no Spotify
 
-[![Spotify](https://novatoremg.vercel.app/api/spotify)](https://open.spotify.com/user/kabdrso2jlt9jaam79afo4odp)
+[![Spotify](https://spotifyplaying.vercel.app/api/spotify)](https://open.spotify.com/user/kabdrso2jlt9jaam79afo4odp)
+
+<div>
+<a href="https://open.spotify.com/embed/playlist/1yRI4pDadN5MWO8uSDy0Hr">
+  <img align="left" alt="Spotify Now Playing" src="https://spotify-spotifyplaying.vercel.app/api/spotify" />
+</a>
+</div>
 
 ## 🛠️ Tecnologias & Ferramentas
 
