@@ -32,42 +32,13 @@ Também trabalho como **Designer de Marcas** no Estúdio Vue e **Coordenador de 
 
 <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="AWS Solutions Architect Associate" />
 <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="AWS Cloud Practitioner" />
-<img src="https://images.credly.com/size/340x340/images/7d06faf8-c754-4ecd-8ab1-2115826b03c6/image.png" width="100" alt="AWS AI Practitioner" />
-<img src="https://images.credly.com/size/340x340/images/8b3a4c8e-8f6a-4727-8bb0-b52fad4df8ae/image.png" width="100" alt="AWS re/Start Graduate" />
-<img src="https://images.credly.com/size/340x340/images/65e47bf5-74c8-4b6d-b52e-c11bfe1ba8b7/image.png" width="100" alt="AWS Partner Technical" />
-
-**AWS Certified Solutions Architect – Associate** (Mai 2025 - Mai 2028)  
-**AWS Certified Cloud Practitioner** (Dez 2024 - Dez 2027)  
-**AWS Certified AI Practitioner** (Fev 2025 - Fev 2028)  
-**AWS Certified AI Practitioner Early Adopter** (Fev 2025)  
-**AWS Partner: Technical Accredited** (Jun 2025)  
-**AWS re/Start Graduate** (Nov 2024)
-
-### 💰 **FinOps Foundation**
-
-<img src="https://images.credly.com/size/340x340/images/9945dfcb-1cca-4529-85e6-db1be3782210/image.png" width="100" alt="FinOps Certified Practitioner" />
-<img src="https://images.credly.com/size/340x340/images/82c20b01-8844-4e6c-9c5d-8ad94ea84d9a/image.png" width="100" alt="Introduction to FinOps" />
-<img src="https://images.credly.com/size/340x340/images/dd1c8631-49bb-498b-ab6d-4ea16b84b5d0/image.png" width="100" alt="Introduction to FOCUS" />
-
-**FinOps Certified Practitioner** (Jan 2025 - Jan 2027)  
-**Introduction to FinOps** (Nov 2024)  
-**Introduction to FOCUS** (Fev 2025 - Fev 2027)
-
-### 🐙 **GitHub & Outros**
-
+<img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100" alt="AWS AI Practitioner" />
+<img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="100" alt="AWS re/Start Graduate" />
+<img src="https://images.credly.com/size/340x340/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png" width="100" alt="AWS Partner Technical" />
+<img src="https://images.credly.com/size/340x340/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png" width="100" alt="FinOps Certified Practitioner" />
 <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100" alt="GitHub Foundations" />
-<img src="https://images.credly.com/size/340x340/images/bf0c0d97-16b1-4d87-81ac-1c750be3cf2e/image.png" width="100" alt="Oracle Cloud Infrastructure" />
-<img src="https://images.credly.com/size/340x340/images/1c2c86e1-16ce-4e4d-a425-d1ac96bb026d/image.png" width="100" alt="Scrum Foundation" />
-<img src="https://images.credly.com/size/340x340/images/6bb61c8c-8700-42b3-ac71-135496f0ea6d/image.png" width="100" alt="Aspire Leaders" />
-
-**GitHub Foundations** (Set 2024 - Set 2027) | **Oracle Cloud Infrastructure Foundations** (Jan 2025 - Jan 2027)  
-**Scrum Foundation Professional** (Set 2024 - Set 2027) | **Aspire Leaders Program** (Mar 2025)
-
-### 📱 **Apple/Swift**
-
-<img src="https://images.credly.com/size/340x340/images/5b72548f-ed8e-4294-bc23-8d54f0b85b13/image.png" width="100" alt="HackaTruck Swift" />
-
-**Práticas de Cloud Services usando Swift** (Mar 2025) | **Algoritmos e POO com Swift** (Nov 2024)
+<img src="https://images.credly.com/images/40064862-62f7-4a4e-ad88-59d7aac8aa8c/OCI2024FNDCFA_cached_image_20250524-27-htvkie.png" width="100" alt="Oracle Cloud Infrastructure" />
+<img src="https://images.credly.com/size/340x340/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob" width="100" alt="Scrum Foundation" />
 
 </div>
 
@@ -240,6 +211,6 @@ Também trabalho como **Designer de Marcas** no Estúdio Vue e **Coordenador de 
 
 **Obrigado pela visita! Vamos construir algo incrível juntos! 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Cloud%20Computing!&fontSize=16&fontColor=fff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontSize=16&fontColor=fff&animation=twinkling"/>
 
 </div>
