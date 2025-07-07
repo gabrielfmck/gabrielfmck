@@ -16,7 +16,7 @@
 
 ## 🚀 Sobre Mim
 
-Me chamo **Gabriel Fernandes**, tenho **22 anos**, sou um **Cloud Solutions Architect** e **Engenheiro de Software** apaixonado por Cloud Computing, FinOps e Front-end Development. Sou graduado em **Engenharia de Software** pela UniCesumar e atualmente curso **Sistemas de Informação** na UFU. Fui graduado pelo programa **AWS re/Start** da Escola da Nuvem com nota máxima (100/100) e sou **Alumni do Aspire Leaders Program 2025** da Harvard Business School, onde fui selecionado entre **5.979 finalistas** de **25.021 participantes** de mais de 195 países.
+Me chamo **Gabriel Fernandes**, tenho **22 anos**, sou um **Engenheiro de Software** apaixonado por Cloud Computing, FinOps e Front-end Development. Sou graduado em **Engenharia de Software** pela UniCesumar e atualmente curso **Sistemas de Informação** na UFU. Fui graduado pelo programa **AWS re/Start** da Escola da Nuvem com nota máxima (100/100) e sou **Alumni do Aspire Leaders Program 2025** da Harvard Business School, onde fui selecionado entre **5.979 finalistas** de **25.021 participantes** de mais de 195 países.
 
 Possuo **3 certificações AWS** (Solutions Architect Associate, Cloud Practitioner e AI Practitioner), sou **FinOps Certified Practitioner** e **GitHub Certified**. Atuo como **Mentor Técnico Voluntário** na Escola da Nuvem, preparando alunos para certificações AWS, e como **Community Member** na FinOps Foundation, disseminando práticas de otimização de custos em nuvem. Sou **Embaixador** do Programa Talentos de Futuro do Instituto Algar, onde desenvolvo estratégias de marketing e design gráfico, tendo sido reconhecido como **Destaque do Mês** em minha primeira atuação.
 
