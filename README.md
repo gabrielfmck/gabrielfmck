@@ -14,51 +14,7 @@
 
 ---
 
-<img align="right" alt="Cloud Computing" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 ## 🚀 Sobre Mim
-
-```typescript
-const gabriel = {
-    name: "Gabriel Fernandes",
-    age: 21,
-    location: "Monte Carmelo, MG - Brasil",
-    role: "Cloud Solutions Architect",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "Swift", "C"],
-    askMeAbout: ["AWS", "FinOps", "Cloud Architecture", "Front-end", "Mentoring"],
-    technologies: {
-        cloud: {
-            aws: ["EC2", "S3", "Lambda", "VPC", "CloudWatch", "IAM"],
-            azure: ["Learning AZ-900"],
-            oracle: ["OCI Foundations"]
-        },
-        frontEnd: {
-            js: ["React", "Vue.js", "Next.js"],
-            css: ["Tailwind CSS", "Bootstrap", "Sass"],
-            mobile: ["Swift", "SwiftUI"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "FastAPI"],
-            databases: ["PostgreSQL", "MySQL", "MongoDB"]
-        },
-        devOps: ["AWS", "Git", "GitHub Actions", "Linux"],
-        design: ["Adobe Photoshop", "Adobe Illustrator", "Figma"]
-    },
-    certifications: ["AWS Solutions Architect", "AWS Cloud Practitioner", 
-                    "AWS AI Practitioner", "FinOps Certified", "GitHub Foundations"],
-    currentFocus: "Preparing for AWS Developer Associate",
-    education: ["Engenharia de Software - UniCesumar (Concluído)", 
-               "Sistemas de Informação - UFU (Cursando)"],
-    achievements: ["Harvard Aspire Leaders Alumni", "AWS re/Start Graduate (100/100)",
-                  "Destaque do Mês - Instituto Algar", "Top 50 DIO Campus Expert"],
-    funFact: "I optimize cloud costs by day and debug with console.log by night! ☁️😄"
-};
-```
-
-<br/>
-
-## 📋 Minha História
 
 Me chamo **Gabriel Fernandes**, tenho **21 anos**, sou um **Cloud Solutions Architect** e **Engenheiro de Software** apaixonado por Cloud Computing, FinOps e Front-end Development. Sou graduado em **Engenharia de Software** pela UniCesumar e atualmente curso **Sistemas de Informação** na UFU. Fui graduado pelo programa **AWS re/Start** da Escola da Nuvem com nota máxima (100/100) e sou **Alumni do Aspire Leaders Program 2025** da Harvard Business School, onde fui selecionado entre **5.979 finalistas** de **25.021 participantes** de mais de 195 países.
 
