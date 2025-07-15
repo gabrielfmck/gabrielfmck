@@ -193,13 +193,23 @@ Também trabalho como **Designer de Marcas** no Estúdio Vue e **Coordenador de 
 
 ---
 
+## 🐍 Pacman Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielfmck/gabrielfmck/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielfmck/gabrielfmck/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabrielfmck/gabrielfmck/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ## 🐍 GitHub Snake Game
 
 <div align="center">
   
 ### ⭐ *Se você gostou do meu trabalho, considere dar uma estrela nos repositórios!* ⭐
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gabrielfmck/gabrielfmck/output/snake.svg" alt="Snake animation" />
 
 </div>
 
