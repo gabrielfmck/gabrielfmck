@@ -192,7 +192,7 @@ Também trabalho como **Designer de Marcas** no Estúdio Vue e **Coordenador de 
 
 ---
 
-## 🐍 Pacman Game
+## 🧮 Pacman Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielfmck/gabrielfmck/output/pacman-contribution-graph-dark.svg">
@@ -210,6 +210,16 @@ Também trabalho como **Designer de Marcas** no Estúdio Vue e **Coordenador de 
 
 <img src="https://raw.githubusercontent.com/gabrielfmck/gabrielfmck/output/snake.svg" alt="Snake animation" />
 
+</div>
+
+---
+
+## 🎵 Spotify Recently Played
+
+<div align="center">
+  <a href="https://open.spotify.com/user/kabdrso2jlt9jaam79afo4odp">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kabdrso2jlt9jaam79afo4odp&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ---
