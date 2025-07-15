@@ -38,7 +38,6 @@ Também trabalho como **Designer de Marcas** no Estúdio Vue e **Coordenador de 
 <img src="https://images.credly.com/size/340x340/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png" width="100" alt="FinOps Certified Practitioner" />
 <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100" alt="GitHub Foundations" />
 <img src="https://images.credly.com/images/40064862-62f7-4a4e-ad88-59d7aac8aa8c/OCI2024FNDCFA_cached_image_20250524-27-htvkie.png" width="100" alt="Oracle Cloud Infrastructure" />
-<img src="https://images.credly.com/size/340x340/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob" width="100" alt="Scrum Foundation" />
 
 </div>
 
