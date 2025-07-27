@@ -45,12 +45,11 @@ Também trabalho como **Designer de Marcas** no Estúdio Vue e **Coordenador de 
 
 <div align="center">
 
-### ☁️ Cloud & Infrastructure Magic
+### ☁️ Cloud & Infrastructure
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Nginx](https://skillicons.dev/icons?i=nginx)
 
 ### 💻 Programming Languages
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -72,17 +71,11 @@ Também trabalho como **Designer de Marcas** no Estúdio Vue e **Coordenador de 
 
 ### ⚡ Backend & Database
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Django](https://skillicons.dev/icons?i=django)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Redis](https://skillicons.dev/icons?i=redis)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![GitLab](https://skillicons.dev/icons?i=gitlab)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Photoshop](https://skillicons.dev/icons?i=ps)
