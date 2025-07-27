@@ -20,7 +20,7 @@ Me chamo **Gabriel Fernandes**, tenho **22 anos**, sou um **Engenheiro de Softwa
 
 Possuo **3 certificações AWS** (Solutions Architect Associate, Cloud Practitioner e AI Practitioner), sou **FinOps Certified Practitioner** e **GitHub Certified**. Atuo como **Mentor Técnico Voluntário** na Escola da Nuvem, preparando alunos para certificações AWS, e como **Community Member** na FinOps Foundation, disseminando práticas de otimização de custos em nuvem. Sou **Embaixador** do Programa Talentos de Futuro do Instituto Algar, onde desenvolvo estratégias de marketing e design gráfico, tendo sido reconhecido como **Destaque do Mês** em minha primeira atuação.
 
-Também trabalho como **Designer de Marcas** no Estúdio Vue e **Coordenador de Design e Marketing** no MonteBot da UFU. Tenho experiência em desenvolvimento front-end com React.js, TypeScript, JavaScript e Tailwind CSS, além de forte conhecimento em arquitetura de soluções AWS, segurança em nuvem e otimização de custos.
+Também trabalho como **Designer de Marcas** e sou **Coordenador de Marketing** no MonteBot da UFU. Tenho experiência em desenvolvimento front-end com React.js, TypeScript, JavaScript e Tailwind CSS, além de forte conhecimento em arquitetura de soluções AWS, segurança em nuvem e otimização de custos.
 
 ---
 
